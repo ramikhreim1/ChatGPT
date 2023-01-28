@@ -11,7 +11,8 @@ In order to run the ChatGPT app on your PC, and hosted online for free you will 
 - Navigate to the root directory of the cloned repository in your command prompt or terminal.
 - Create .env file in the root directory and place your openai API key like this (OPENAI_API_KEY="YOUR_KEY"):
 
-![image](https://user-images.githubusercontent.com/99683327/215259501-2aef7832-26e6-459c-abf4-ffdca50f214d.png)
+![image](https://user-images.githubusercontent.com/99683327/215260618-65b9a580-8be4-427b-a5d4-424270406dc7.png)
+
 
 - Run the command npm create vite@latest client --template vanilla
 - Navigate to the Client folder and Run the command npm run dev to start the FrontEnd.
