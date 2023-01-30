@@ -21,4 +21,4 @@ In order to run the ChatGPT app on your PC, and hosted online for free you will 
 
 
 
-Try it https://chat-gpt-symplify.vercel.app/
+
