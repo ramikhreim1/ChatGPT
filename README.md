@@ -16,9 +16,9 @@ In order to run the ChatGPT app on your PC, and hosted online for free you will 
 - Navigate to the Server folder and Run the command npm run server to start the BackEnd.
 - Open your web browser and navigate to http://localhost:5000 to view the project BackEnd.
 
-- You can host your  Backend for free here (render.com), make sure you point your github server folder. 
+- You can host your  Backend for free here (render.com), make sure you point your github server folder.
 - Your can host your frontend for free here (vercel.com), make sure you point your github client folder.
 
 
 
-Try it https://chat-gpt-symplify.vercel.app/
+
